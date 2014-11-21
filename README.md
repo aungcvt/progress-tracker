@@ -1,4 +1,4 @@
 progress-tracker
 ================
 
-just a basic progress tracker
+just a simple progress tracker
