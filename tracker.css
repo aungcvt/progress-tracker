@@ -16,6 +16,7 @@
 			padding: 10px 0px 0px 0px;
 			overflow: hidden;
 			width: 100%;
+			list-style: none;
 		}
 		.progress-tracker li {
 			float: left;
